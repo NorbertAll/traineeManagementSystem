@@ -1,4 +1,5 @@
 /venv
 /students/migrations/
+/students/__pycache__/
 /main/__pycache__/
 db.sqlite3
